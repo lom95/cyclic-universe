@@ -49,7 +49,7 @@ Simulated particle distribution shows **filaments, voids, and clusters** visuall
 ### 3. **MCXC** (galaxy clusters)
 Density peaks in the simulation qualitatively match the distribution of real clusters.
 
-### 4. **Gamma-ray dipole** (NEW! 🎉)
+### 4. **Gamma-ray dipole** 
 The dipole direction from the simulation (`l = 176.9°`, `b = -7.3°`) is within **30°** of the observed gamma-ray dipole (`l ≈ 150°`, `b ≈ -5°`), providing a **fourth independent confirmation**.
 
 ---
