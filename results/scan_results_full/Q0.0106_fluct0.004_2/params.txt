@@ -1,0 +1,8 @@
+G=0.095
+Lambda=0.05
+Q=0.0106
+noise_level=0.0001
+fluct_rate=0.004
+neg_mass_ratio=0.05
+TIME_STEP=0.05
+MAX_PARTICLES=5000
