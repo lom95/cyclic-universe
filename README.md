@@ -4,7 +4,7 @@ A Python simulation of a **cyclic universe** with **negative mass** and **quantu
 The model reproduces key cosmological observations and provides an alternative to the standard ΛCDM model.
 
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-<COLOR>.svg)](https://arxiv.org/abs/XXXX.XXXXX)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18823028.svg)](https://doi.org/10.5281/zenodo.18823028)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
